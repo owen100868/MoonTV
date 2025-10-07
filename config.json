@@ -7,8 +7,8 @@
             "detail": "https://api.1080zyku.com"
         },
          "api_222": {            
-"name": "TV-荐片采集",            
-"api": "http://zhangqun1818.serv00.net/jianpian1.php",            
+"name": "测试-MISSAV",            
+"api": "https://py.doube.eu.org/spider?site=Miss",            
 "detail": ""        
 },
 "api_322": {            
@@ -525,5 +525,6 @@
         }
     }
 }
+
 
 
