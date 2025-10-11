@@ -7,8 +7,13 @@
             "detail": "https://api.1080zyku.com"
         },
          "api_222": {            
-"name": "测试-JAVXX",            
+"name": "测试AV-JAVXX",            
 "api": "http://c8.meihq.qzz.io/lz/jav/fl.php",            
+"detail": ""        
+},
+        "api_223": {            
+"name": "测试AV-WUMA",            
+"api": "http://c8.meihq.qzz.io/lz/无码/fl.php",            
 "detail": ""        
 },
 "api_322": {            
@@ -525,6 +530,7 @@
         }
     }
 }
+
 
 
 
