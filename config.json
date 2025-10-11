@@ -8,12 +8,12 @@
         },
          "api_222": {            
 "name": "AV-JAVXX",            
-"api": "http://c8.meihq.qzz.io/lz/jav/fl.php",            
+"api": "https://c8.meihq.qzz.io/lz/jav/fl.php",            
 "detail": ""        
 },
         "api_223": {            
 "name": "AV-WUMA",            
-"api": "http://c8.meihq.qzz.io/lz/无码/fl.php",            
+"api": "https://c8.meihq.qzz.io/lz/无码/fl.php",            
 "detail": ""        
 },
 "api_322": {            
@@ -530,6 +530,7 @@
         }
     }
 }
+
 
 
 
