@@ -9,12 +9,12 @@
          "api_222": {            
 "name": "AV-JAVXX",            
 "api": "https://c8.meihq.qzz.io/lz/jav/fl.php",            
-"detail": ""        
+"detail": "https://c8.meihq.qzz.io/lz/jav/fl.php"        
 },
         "api_223": {            
 "name": "AV-WUMA",            
 "api": "https://c8.meihq.qzz.io/lz/无码/fl.php",            
-"detail": ""        
+"detail": "https://c8.meihq.qzz.io/lz/无码/fl.php"        
 },
 "api_322": {            
 "name": "AV-播放类别",            
@@ -530,6 +530,7 @@
         }
     }
 }
+
 
 
 
