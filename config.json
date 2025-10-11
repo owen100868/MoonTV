@@ -8,7 +8,7 @@
         },
          "api_222": {            
 "name": "测试-JAVXX",            
-"api": "https://c8.meihq.qzz.io/lz/jav/fl.php",            
+"api": "http://c8.meihq.qzz.io/lz/jav/fl.php",            
 "detail": ""        
 },
 "api_322": {            
@@ -525,6 +525,7 @@
         }
     }
 }
+
 
 
 
