@@ -7,14 +7,44 @@
             "detail": "https://api.1080zyku.com"
         },
          "api_222": {            
-"name": "AV-JAVXX",            
-"api": "https://c8.meihq.qzz.io/lz/jav/fl.php",            
+"name": "AV-国产视频",            
+"api": "http://aiyun.zone.id/lz/hsck/国产视频/fl.php",            
 "detail": ""        
 },
         "api_223": {            
-"name": "AV-WUMA",            
-"api": "https://c8.meihq.qzz.io/lz/无码/fl.php",            
-"detail": "https://c8.meihq.qzz.io/lz/无码/json/hsck.json"        
+"name": "AV-无码中文字幕",            
+"api": "http://aiyun.zone.id/lz/hsck/无码中文字幕/fl.php",            
+"detail": ""        
+},
+        "api_224": {            
+"name": "AV-国产新片",            
+"api": "http://aiyun.zone.id/lz/hsck/国产新片/fl.php",            
+"detail": ""        
+},
+        "api_225": {            
+"name": "AV-动漫剧情",            
+"api": "http://aiyun.zone.id/lz/hsck/动漫剧情/fl.php",            
+"detail": ""        
+},
+        "api_226": {            
+"name": "AV-日本有码",            
+"api": "http://aiyun.zone.id/lz/hsck/日本有码/fl.php",            
+"detail": ""        
+},
+        "api_227": {            
+"name": "AV-日本无码",            
+"api": "http://aiyun.zone.id/lz/hsck/日本无码/fl.php",            
+"detail": ""        
+},
+        "api_228": {            
+"name": "AV-欧美高清",            
+"api": "http://aiyun.zone.id/lz/hsck/欧美高清/fl.php",            
+"detail": ""        
+},
+        "api_229": {            
+"name": "AV-有码中文字幕",            
+"api": "http://aiyun.zone.id/lz/hsck/有码中文字幕/fl.php",            
+"detail": ""        
 },
 "api_322": {            
 "name": "AV-播放类别",            
@@ -530,6 +560,7 @@
         }
     }
 }
+
 
 
 
