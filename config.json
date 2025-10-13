@@ -8,7 +8,7 @@
         },
         "api_208": {            
 "name": "AV-MU38",            
-"api": "http://caihy.zone.id/lz/m3.php?filter=true",            
+"api": "https://sj.meihq.qzz.io/lz/m3.php?filter=true",            
 "detail": ""        
 },
          "api_222": {            
@@ -565,6 +565,7 @@
         }
     }
 }
+
 
 
 
