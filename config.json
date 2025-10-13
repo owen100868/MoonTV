@@ -6,6 +6,11 @@
             "api": "https://api.1080zyku.com/inc/api_mac10.php",
             "detail": "https://api.1080zyku.com"
         },
+        "api_208": {            
+"name": "AV-MU38",            
+"api": "http://caihy.zone.id/lz/m3.php?filter=true",            
+"detail": ""        
+},
          "api_222": {            
 "name": "AV-国产视频",            
 "api": "http://aiyun.zone.id/lz/hsck/国产视频/fl.php",            
@@ -560,6 +565,7 @@
         }
     }
 }
+
 
 
 
