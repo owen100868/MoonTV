@@ -11,6 +11,12 @@
 "api": "https://sj.meihq.qzz.io/lz/m3.php?filter=true",            
 "detail": ""        
 },
+        
+         "api_308": {            
+"name": "AV-MU38",            
+"api": "https://yue.bai9527.dpdns.org/lz/dd.php?filter=true",            
+"detail": ""        
+},
          "api_138": {            
 "name": "TV-经典重放",            
 "api": "https://yn.xieyun.dpdns.org/lz/zheng/fl.php",            
@@ -575,6 +581,7 @@
         }
     }
 }
+
 
 
 
