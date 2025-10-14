@@ -63,7 +63,7 @@
 },
 "api_322": {            
 "name": "AV-播放类别",            
-"api": "http://caihy.zone.id/lz/fl.php",            
+"api": "https://yn.xieyun.dpdns.org/lz/fl.php",            
 "detail": ""        
 },
 
@@ -575,6 +575,7 @@
         }
     }
 }
+
 
 
 
