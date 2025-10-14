@@ -11,6 +11,11 @@
 "api": "https://sj.meihq.qzz.io/lz/m3.php?filter=true",            
 "detail": ""        
 },
+        "api_108": {            
+"name": "AV-MU138",            
+"api": "http://mhq.whf.bz/lz/dd.php?filter=true",            
+"detail": ""        
+},
          "api_222": {            
 "name": "AV-国产视频",            
 "api": "http://aiyun.zone.id/lz/hsck/国产视频/fl.php",            
@@ -565,6 +570,7 @@
         }
     }
 }
+
 
 
 
