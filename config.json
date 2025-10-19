@@ -6,36 +6,16 @@
             "api": "https://api.1080zyku.com/inc/api_mac10.php",
             "detail": "https://api.1080zyku.com"
         },
-        "api_208": {            
-"name": "AV-MU38",            
-"api": "https://sj.meihq.qzz.io/lz/m3.php?filter=true",            
-"detail": ""        
-},
-         "api_508": {            
-"name": "直播-测试频道",            
-"api": "https://xiao.mhq.qzz.io/test.php?filter=true",            
-"detail": ""        
-},
+      
+       
          "api_308": {            
 "name": "AV-bai9527",            
 "api": "https://yue.bai9527.dpdns.org/lz/dd.php?filter=true",            
 "detail": ""        
 },
-         "api_138": {            
-"name": "TV-经典重放",            
-"api": "https://yn.xieyun.dpdns.org/lz/zheng/fl.php",            
-"detail": ""        
-},
-        "api_108": {            
-"name": "AV-MU138",            
-"api": "http://mhq.whf.bz/lz/dd.php?filter=true",            
-"detail": ""        
-},
-         "api_222": {            
-"name": "AV-国产视频",            
-"api": "http://aiyun.zone.id/lz/hsck/国产视频/fl.php",            
-"detail": ""        
-},
+   
+     
+      
         "api_223": {            
 "name": "AV-无码中文字幕",            
 "api": "http://aiyun.zone.id/lz/hsck/无码中文字幕/fl.php",            
@@ -585,6 +565,7 @@
         }
     }
 }
+
 
 
 
