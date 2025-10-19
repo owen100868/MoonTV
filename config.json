@@ -11,7 +11,11 @@
 "api": "https://sj.meihq.qzz.io/lz/m3.php?filter=true",            
 "detail": ""        
 },
-        
+         "api_508": {            
+"name": "直播-测试频道",            
+"api": "https://xiao.mhq.qzz.io/test.php?filter=true",            
+"detail": ""        
+},
          "api_308": {            
 "name": "AV-bai9527",            
 "api": "https://yue.bai9527.dpdns.org/lz/dd.php?filter=true",            
@@ -581,6 +585,7 @@
         }
     }
 }
+
 
 
 
