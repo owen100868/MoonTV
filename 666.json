@@ -5,6 +5,51 @@
         "api": "http://caihy.zone.id/hsck.php?filter=true",
         "detail": ""
     },
+     "api_308": {            
+"name": "AV-bai9527",            
+"api": "https://yue.bai9527.dpdns.org/lz/dd.php?filter=true",            
+"detail": ""        
+},
+     "api_223": {            
+"name": "AV-无码中文字幕",            
+"api": "http://aiyun.zone.id/lz/hsck/无码中文字幕/fl.php",            
+"detail": ""        
+},
+        "api_224": {            
+"name": "AV-国产新片",            
+"api": "http://aiyun.zone.id/lz/hsck/国产新片/fl.php",            
+"detail": ""        
+},
+        "api_225": {            
+"name": "AV-动漫剧情",            
+"api": "http://aiyun.zone.id/lz/hsck/动漫剧情/fl.php",            
+"detail": ""        
+},
+        "api_226": {            
+"name": "AV-日本有码",            
+"api": "http://aiyun.zone.id/lz/hsck/日本有码/fl.php",            
+"detail": ""        
+},
+        "api_227": {            
+"name": "AV-日本无码",            
+"api": "http://aiyun.zone.id/lz/hsck/日本无码/fl.php",            
+"detail": ""        
+},
+        "api_228": {            
+"name": "AV-欧美高清",            
+"api": "http://aiyun.zone.id/lz/hsck/欧美高清/fl.php",            
+"detail": ""        
+},
+        "api_229": {            
+"name": "AV-有码中文字幕",            
+"api": "http://aiyun.zone.id/lz/hsck/有码中文字幕/fl.php",            
+"detail": ""        
+},
+"api_322": {            
+"name": "AV-播放类别",            
+"api": "https://yn.xieyun.dpdns.org/lz/fl.php",            
+"detail": ""        
+},
     "api_708": {
         "name": "AV-cephp版",
         "api": "http://caihy.zone.id/cs.php?filter=true",
