@@ -28,7 +28,11 @@
 "api": "https://3yue.0.9.a.b.0.d.0.0.1.0.a.2.ip6.arpa/%E6%98%9F%E9%9B%85%E5%89%A7%E5%9C%BA.php?ac=detail",            
 "detail": ""        
 },
-      
+       "api_558": {            
+"name": "AV-javday",            
+"api": "https://3yue.0.9.a.b.0.d.0.0.1.0.a.2.ip6.arpa/javday.php?ac=detail",            
+"detail": ""        
+},
         "api_223": {            
 "name": "AV-无码中文字幕",            
 "api": "http://aiyun.zone.id/lz/hsck/无码中文字幕/fl.php",            
@@ -578,6 +582,7 @@
         }
     }
 }
+
 
 
 
