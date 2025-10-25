@@ -25,7 +25,7 @@
 },
      "api_508": {            
 "name": "TV-星雅短剧",            
-"api": "https://3yue.0.9.a.b.0.d.0.0.1.0.a.2.ip6.arpa/星雅剧场.php?filter=true",            
+"api": "https://3yue.0.9.a.b.0.d.0.0.1.0.a.2.ip6.arpa/%E6%98%9F%E9%9B%85%E5%89%A7%E5%9C%BA.php?ac=list",            
 "detail": ""        
 },
       
@@ -578,6 +578,7 @@
         }
     }
 }
+
 
 
 
