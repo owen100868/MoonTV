@@ -25,7 +25,7 @@
 },
      "api_508": {            
 "name": "TV-茶杯狐",            
-"api": "http://caihy.zone.id/%E8%8C%B6%E6%9D%AF%E7%8B%90.php",            
+"api": "http://caihy.zone.id/%E8%8C%B6%E6%9D%AF%E7%8B%90.php?filter=true",            
 "detail": ""        
 },
       
@@ -578,6 +578,7 @@
         }
     }
 }
+
 
 
 
