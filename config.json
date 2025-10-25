@@ -13,6 +13,11 @@
 "api": "https://yue.bai9527.dpdns.org/lz/dd.php?filter=true",            
 "detail": ""        
 },
+         "api_708": {            
+"name": "AV-cephp版",            
+"api": "http://caihy.zone.id/cs.php",            
+"detail": ""        
+},
     "api_308": {            
 "name": "AV-黄色仓库php版",            
 "api": "http://caihy.zone.id/hsck.php",            
@@ -573,6 +578,7 @@
         }
     }
 }
+
 
 
 
