@@ -5,6 +5,11 @@
         "api": "http://caihy.zone.id/hsck.php?filter=true",
         "detail": ""
     },
+    "api_808": {
+        "name": "TV-永乐视频",
+        "api": "https://3yue.0.9.a.b.0.d.0.0.1.0.a.2.ip6.arpa/永乐视频.php?action=home",
+        "detail": ""
+    },
      "api_308": {            
 "name": "AV-bai9527",            
 "api": "https://yue.bai9527.dpdns.org/lz/dd.php?filter=true",            
