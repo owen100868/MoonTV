@@ -5,6 +5,12 @@
         "api": "https://keep.0.d.7.b.0.d.0.0.1.0.a.2.ip6.arpa/hsck/fl.php",
         "detail": ""
     },
+    
+    "api_908": {        
+"name": "AV-JAVXX数据库版",        
+"api": "https://keep.0.d.7.b.0.d.0.0.1.0.a.2.ip6.arpa/db.php",        
+"detail": ""    
+},
     "api_808": {
         "name": "TV-林正英专场",
         "api": "https://xiao.mhq.qzz.io/林正英.php",
