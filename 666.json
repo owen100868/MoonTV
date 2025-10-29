@@ -6,6 +6,11 @@
         "detail": ""
     },
     
+    "api_001-1": {
+        "name": "AV-M3Uphp版",
+        "api": "https://yn.xieyun.dpdns.org/lz/m3.php",
+        "detail": ""
+    },
      "api_002-1": {        
 "name": "AV-KKP",        
 "api": "https://xin.4.b.a.b.0.d.0.0.1.0.a.2.ip6.arpa/fl.php",        
