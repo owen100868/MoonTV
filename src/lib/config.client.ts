@@ -7,14 +7,7 @@ export async function getCustomCategories(): Promise<{
   type: 'movie' | 'tv';
   query: string;
 }[]> {
-  const res = await fetch('/api/config/custom_category', {
-    cache: 'no-store',
-    headers: {
-      'Cache-Control': 'no-cache, no-store, must-revalidate',
-      'Pragma': 'no-cache',
-      'Expires': '0'
-    }
-  });
+  const res = await fetch('/api/config/custom_category');
   const data = await res.json();
   return data.filter((item: any) => !item.disabled).map((category: any) => ({
     name: category.name || '',
@@ -32,19 +25,13 @@ export interface ApiSite {
 
 export async function getAvailableApiSitesClient(): Promise<ApiSite[]> {
   try {
-    const res = await fetch('/api/config/sources', {
-      cache: 'no-store',
-      headers: {
-        'Cache-Control': 'no-cache, no-store, must-revalidate',
-        'Pragma': 'no-cache',
-        'Expires': '0'
-      }
-    });
+    const res = await fetch('/api/config/sources');
     if (!res.ok) {
       throw new Error('Failed to fetch sources');
     }
     const data = await res.json();
-    return data.filter((site: any) => !site.disabled).map((site: any) => ({
+    // 服务器已做按用户与禁用过滤
+    return data.map((site: any) => ({
       key: site.key,
       name: site.name,
       api: site.api,

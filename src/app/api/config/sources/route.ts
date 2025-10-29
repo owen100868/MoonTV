@@ -1,26 +1,28 @@
-import { NextRequest } from 'next/server';
+/* eslint-disable @typescript-eslint/no-explicit-any,no-console */
 
-import { getConfig } from '@/lib/config';
+import { NextRequest, NextResponse } from 'next/server';
+
+import { getAuthInfoFromCookie } from '@/lib/auth';
+import { getAvailableApiSites, getCacheTime } from '@/lib/config';
+
+export const runtime = 'edge';
 
 export async function GET(request: NextRequest) {
   try {
-    const config = await getConfig();
-    const sources = config.SourceConfig || [];
-    
-    return new Response(JSON.stringify(sources), {
-      status: 200,
+    const auth = getAuthInfoFromCookie(request);
+    const username = auth?.username;
+    const sites = await getAvailableApiSites(username);
+    const cacheTime = await getCacheTime();
+    return NextResponse.json(sites, {
       headers: {
-        'Content-Type': 'application/json',
-        'Cache-Control': 'public, max-age=3600', // 缓存1小时
+        'Cache-Control': `public, max-age=${cacheTime}, s-maxage=0`,
       },
     });
   } catch (error) {
-    console.error('Failed to get sources:', error);
-    return new Response(JSON.stringify([]), {
-      status: 500,
-      headers: {
-        'Content-Type': 'application/json',
-      },
-    });
+    console.error('获取按用户过滤的视频源失败:', error);
+    return NextResponse.json(
+      { error: '获取视频源失败' },
+      { status: 500 }
+    );
   }
 }
