@@ -250,55 +250,8 @@
         "name": "AV-黄AV资源",
         "api": "https://www.pgxdy.com/api/json.php",
         "detail": "https://www.pgxdy.com"
-    },
-    "ffzynew": {
-        "api": "https://api.ffzyapi.com/api.php/provide/vod",
-        "name": "非凡影视new",
-        "detail": "http://ffzy5.tv"
-    },
-    "jisu": {
-        "api": "https://jszyapi.com/api.php/provide/vod",
-        "name": "极速资源",
-        "detail": "https://jszyapi.com"
-    },
-    "xingbaziyuan": {
-        "api": "https://xingba111.com/api.php/provide/vod",
-        "name": "杏吧资源",
-        "detail": ""
-    },
-    "senlinziyuan": {
-        "api": "https://slapibf.com/api.php/provide/vod",
-        "name": "森林资源",
-        "detail": ""
-    },
-    "aiduanjucc": {
-        "api": "https://www.aiduanju.cc/",
-        "name": "爱短剧.cc",
-        "detail": ""
-    },
-    "huangseziy": {
-        "api": "https://hsckzy888.com/api.php/provide/vod",
-        "name": "黄色资源啊啊",
-        "detail": ""
-    },
-    "lajiaoziyu": {
-        "api": "https://apilj.com/api.php/provide",
-        "name": "辣椒资源黄黄",
-        "detail": ""
-    },
-    "qiqiqiqi": {
-        "api": "https://www.qiqidys.com/api.php/provide/vod/",
-        "name": "七七影视",
-        "detail": ""
-    },
-    "yingshigongchang": {
-        "api": "https://cj.lziapi.com/api.php/provide/vod/",
-        "name": "影视工厂",
-        "detail": ""
-    },
-    "fantuanyingshi": {
-        "api": "https://www.fantuan.tv/api.php/provide/vod/",
-        "name": "饭团影视",
-        "detail": ""
     }
+   
+  
+   
 }
