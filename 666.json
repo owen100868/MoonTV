@@ -1,5 +1,6 @@
 {
     "cache_time": 7200,
+    "api_site":{
     "api_001": {
         "name": "AV-黄色仓库php版",
         "api": "https://keep.0.d.7.b.0.d.0.0.1.0.a.2.ip6.arpa/hsck/fl.php",
@@ -252,6 +253,6 @@
         "detail": "https://www.pgxdy.com"
     }
    
-  
+  }
    
 }
