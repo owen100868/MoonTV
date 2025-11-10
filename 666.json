@@ -8,20 +8,20 @@
     },
     
     "api_001-1": {
-        "name": "AV-M3Uphp版",
-        "api": "https://yn.xieyun.dpdns.org/lz/m3.php",
+        "name": "AV-棒子三级版",
+        "api": "https://3yue.0.9.a.b.0.d.0.0.1.0.a.2.ip6.arpa/%E6%A3%92%E5%AD%90/fl.php",
         "detail": ""
     },
      "api_002-1": {        
 "name": "AV-KKP",        
 "api": "https://min.4.b.a.b.0.d.0.0.1.0.a.2.ip6.arpa/db.php",        
 "detail": ""    
-},
+}，
     "api_002": {        
 "name": "AV-JAVXX数据库版",        
 "api": "https://keep.0.d.7.b.0.d.0.0.1.0.a.2.ip6.arpa/db.php",        
 "detail": ""    
-},
+}，
     "api_003": {
         "name": "TV-林正英专场",
         "api": "https://xiao.mhq.qzz.io/林正英.php",
@@ -31,7 +31,7 @@
 "name": "AV-bai9527",            
 "api": "https://yue.bai9527.dpdns.org/lz/dd.php?filter=true",            
 "detail": ""        
-},
+}，
      "api_005": {            
 "name": "AV-无码中文字幕",            
 "api": "http://aiyun.zone.id/lz/hsck/无码中文字幕/fl.php",            
