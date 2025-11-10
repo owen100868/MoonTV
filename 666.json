@@ -6,7 +6,7 @@
       "api": "https://keep.0.d.7.b.0.d.0.0.1.0.a.2.ip6.arpa/hsck/fl.php",
       "detail": ""
     },
-    "api_001-1": {
+    "api_001_1": {
       "name": "AV-棒子三级版",
       "api": "https://3yue.0.9.a.b.0.d.0.0.1.0.a.2.ip6.arpa/bangzi/fl.php",
       "detail": ""
@@ -200,7 +200,7 @@
       "name": "AV-精品资源",
       "api": "https://www.jingpinx.com/api.php/provide/vod",
       "detail": "https://www.jingpinx.com"
-    }，
+    },
     "api_041": {
       "name": "AV-美少女资源",
       "api": "https://www.msnii.com/api/json.php",
@@ -213,12 +213,12 @@
     }，
     "api_043": {
       "name": "AV-色南国",
-      "api": "https://api.sexnguon.com/api.php/provide/vod"，
+      "api": "https://api.sexnguon.com/api.php/provide/vod",
       "detail": "https://api.sexnguon.com"
     }，
     "api_044": {
       "name": "AV-色猫资源",
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php"，
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "detail": "https://api.maozyapi.com"
     }，
     "api_045": {
@@ -228,20 +228,20 @@
     }，
     "api_046": {
       "name": "AV-香奶儿资源",
-      "api": "https://www.gdlsp.com/api/json.php"，
+      "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
     }，
     "api_047": {
       "name": "AV-鲨鱼资源",
-      "api": "https://shayuapi.com/api.php/provide/vod"，
+      "api": "https://shayuapi.com/api.php/provide/vod",
       "detail": "https://shayuapi.com"
-    },
+    }，
     "api_048": {
       "name": "AV-黄AV资源",
       "api": "https://www.pgxdy.com/api/json.php",
       "detail": "https://www.pgxdy.com"
     },
-    "api_062-1": {
+    "api_062_1": {
       "name": "AV-KKP",
       "api": "https://min.4.b.a.b.0.d.0.0.1.0.a.2.ip6.arpa/db.php",
       "detail": ""
