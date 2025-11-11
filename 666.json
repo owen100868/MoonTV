@@ -67,8 +67,8 @@
       "detail": ""
     },
     "api_013": {
-      "name": "AV-cephp版",
-      "api": "http://caihy.zone.id/cs.php?filter=true",
+      "name": "TV-荐片",
+      "api": "http://zhangqun1818.serv00.net/jianpian.php",
       "detail": ""
     },
     "api_014": {
