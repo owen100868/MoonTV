@@ -7,7 +7,7 @@
             "detail": "https://api.1080zyku.com"
         },
       
-       "api_11": {
+       "api_1321": {
             "name": "TV-影视新点播",
             "api": "https://www.ysxq.cc/api.php/provide/vod",
             "detail": "https://www.ysxq.cc/"
@@ -586,6 +586,7 @@
         }
     }
 }
+
 
 
 
